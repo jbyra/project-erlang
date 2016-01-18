@@ -1,0 +1,9 @@
+[{release,"erlang_cowboy_release","1","5.10.4",
+          [{kernel,"2.16.4","./lib/kernel-2.16.4"},
+           {stdlib,"1.19.4","./lib/stdlib-1.19.4"},
+           {ranch,"1.1.0","./lib/ranch-1.1.0"},
+           {crypto,"3.2","./lib/crypto-3.2"},
+           {cowlib,"1.0.1","./lib/cowlib-1.0.1"},
+           {cowboy,"1.0.1","./lib/cowboy-1.0.1"},
+           {erlang_cowboy,"0.1.0","./lib/erlang_cowboy-0.1.0"}],
+          permanent}].
